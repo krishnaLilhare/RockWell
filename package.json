@@ -1,0 +1,22 @@
+{
+  "name": "rockwell",
+  "version": "1.0.0",
+  "description": "sdm exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnaLilhare/RockWell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnaLilhare/RockWell/issues"
+  },
+  "homepage": "https://github.com/krishnaLilhare/RockWell#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
